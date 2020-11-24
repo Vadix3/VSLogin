@@ -1,4 +1,4 @@
-![alt text](https://github.com/Vadix3/DoGood/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png?raw=true)
+![alt text](https://github.com/Vadix3/VSLogin/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png?raw=true)
 
 # VSLogin 
 #### Very Secure Login
